@@ -35,5 +35,6 @@ Helps insurance companies assess customer risk more effectively
 Supports targeted strategies to improve policy renewal rates
 Enhances decision-making in underwriting and customer retention
 Reduces potential financial losses by predicting high-risk customers
+
 📁 Files Included
 insurance_customer_response_prediction.ipynb → Complete data analysis, model building, and evaluation
